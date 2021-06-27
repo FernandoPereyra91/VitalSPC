@@ -1,0 +1,13 @@
+.titulo-color1{
+	color: grey;
+}
+header nav ul li a:hover {
+	color: red;
+}
+header nav a:hover{
+	color: red;
+}
+
+p a:hover{
+	color: red;
+}
